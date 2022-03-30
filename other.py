@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Let's make an example of decorators
 def dif(func):
     def inner(a,b):
         print("Let's make a ",func.__name__)
