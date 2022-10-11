@@ -11,3 +11,4 @@ def sum(a,b):
     return a+b
 
 print(sum(1,2))
+print("Hola como estas", sum(1,2))
